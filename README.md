@@ -1,1 +1,1 @@
-# these are some of my python porjects
+# these are some of my python projects
